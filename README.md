@@ -7,11 +7,11 @@ Simple Chess is one player chess game created using c++.
 
 ## Images
 
-![]()
+![Image](https://github.com/inDefinate9/Simplechess/blob/main/Screenshot%20from%202021-04-08%2005-53-37.png)
 
-![]()
+![Image](https://github.com/inDefinate9/Simplechess/blob/main/Screenshot%20from%202021-04-08%2005-53-54.png)
 
-![]()
+![Image](https://github.com/inDefinate9/Simplechess/blob/main/Screenshot%20from%202021-04-08%2006-01-57.png)
 
 
 ## Todo
