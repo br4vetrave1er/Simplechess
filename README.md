@@ -5,14 +5,6 @@ Simple Chess is one player chess game created using c++.
 - It's a console based game
 - user can play as a black or white.
 
-## Images
-
-![Image](https://github.com/inDefinate9/Simplechess/blob/main/Screenshot%20from%202021-04-08%2005-53-37.png)
-
-![Image](https://github.com/inDefinate9/Simplechess/blob/main/Screenshot%20from%202021-04-08%2005-53-54.png)
-
-![Image](https://github.com/inDefinate9/Simplechess/blob/main/Screenshot%20from%202021-04-08%2006-01-57.png)
-
 
 ## Todo
 
@@ -36,6 +28,16 @@ Simple Chess is one player chess game created using c++.
 
 ## AI
   Minmax Algorithm is used by the coumputer. In this recursive tree of all possible moves are explored to a given depth and the position is evaluated at the leaf. After that we return depeding on wheather its whites turn or black we try to maximize the value (if White) or minimize (black) from the root node to parent node.
+
+## Images
+
+![Image](https://github.com/inDefinate9/Simplechess/blob/main/Screenshot%20from%202021-04-08%2005-53-37.png)
+
+![Image](https://github.com/inDefinate9/Simplechess/blob/main/Screenshot%20from%202021-04-08%2005-53-54.png)
+
+![Image](https://github.com/inDefinate9/Simplechess/blob/main/Screenshot%20from%202021-04-08%2006-01-57.png)
+
+
 
 ## Issues
 - No castling
